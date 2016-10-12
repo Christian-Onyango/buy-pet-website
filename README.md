@@ -1,7 +1,7 @@
 # Pets Website Installation
 
 **Authors**
-- Alex Muchiri
+- Christian Onyango
 
 **Technologies**
 - HTML
@@ -10,4 +10,4 @@
 - Prepros Compiler
 
 **Licensing**
-- ©2016 Alex Muchiri, All Rights Reserved.
+- ©2016 Christian Onyango, All Rights Reserved.
